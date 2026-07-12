@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+venv1/
+
+# Secrets and local config
+.env
+.env.*
+!.env.example
+
+# IDE / OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# HuggingFace / model cache
+.hf_cache/
+
+# Local vector databases and BM25 indexes
+chroma_law_db/
+chroma_law_qa_db/
+bm25_index_law/
+bm25_index_law_qa/
+
+# Generated outputs and temporary logs
+output/
+Output.txt
+*.log
+
+# Local agent/cache folders
+.agents/
+

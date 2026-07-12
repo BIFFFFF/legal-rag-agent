@@ -1,0 +1,16 @@
+chromadb
+huggingface-hub
+jieba
+langchain
+langchain-core
+langchain-openai
+langchain-text-splitters
+langgraph
+numpy
+pypdf
+python-docx
+python-dotenv
+sentence-transformers
+torch
+whoosh
+

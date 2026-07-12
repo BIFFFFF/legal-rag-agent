@@ -1,0 +1,120 @@
+{"query": "中华人民共和国民法典第四百六十三条 本编调整因合同产生的民事关系。\\n", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百六十三条"]}
+{"query": "中华人民共和国民法典第四百六十四条 合同是民事主体之间设立、变更、终止民事法律关系的协议。\\n\\n婚姻、收", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百六十四条"]}
+{"query": "中华人民共和国民法典第四百六十五条 依法成立的合同，受法律保护。\\n\\n依法成立的合同，仅对当事人具有法律", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百六十五条"]}
+{"query": "中华人民共和国民法典第四百六十六条 当事人对合同条款的理解有争议的，应当依据本法第一百四十二条第一款的规定", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百六十六条"]}
+{"query": "中华人民共和国民法典第四百六十七条 本法或者其他法律没有明文规定的合同，适用本编通则的规定，并可以参照适用", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百六十七条"]}
+{"query": "中华人民共和国民法典第四百六十八条 非因合同产生的债权债务关系，适用有关该债权债务关系的法律规定；没有规定", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百六十八条"]}
+{"query": "中华人民共和国民法典第四百六十九条 当事人订立合同，可以采用书面形式、口头形式或者其他形式。\\n\\n书面形", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百六十九条"]}
+{"query": "中华人民共和国民法典第四百七十条 合同的内容由当事人约定，一般包括下列条款：\\n\\n（一）当事人的姓名或", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百七十条"]}
+{"query": "中华人民共和国民法典第四百七十一条 当事人订立合同，可以采取要约、承诺方式或者其他方式。\\n", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百七十一条"]}
+{"query": "中华人民共和国民法典第四百七十二条 要约是希望与他人订立合同的意思表示，该意思表示应当符合下列条件：\\n\\", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百七十二条"]}
+{"query": "中华人民共和国民法典第四百七十三条 要约邀请是希望他人向自己发出要约的表示。拍卖公告、招标公告、招股说明书", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百七十三条"]}
+{"query": "中华人民共和国民法典第四百七十四条 要约生效的时间适用本法第一百三十七条的规定。\\n", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百七十四条"]}
+{"query": "中华人民共和国民法典第四百七十五条 要约可以撤回。要约的撤回适用本法第一百四十一条的规定。\\n", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百七十五条"]}
+{"query": "中华人民共和国民法典第四百七十六条 要约可以撤销，但是有下列情形之一的除外：\\n\\n（一）要约人以确定承诺", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百七十六条"]}
+{"query": "中华人民共和国民法典第四百七十七条 撤销要约的意思表示以对话方式作出的，该意思表示的内容应当在受要约人作出", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百七十七条"]}
+{"query": "中华人民共和国民法典第四百七十八条 有下列情形之一的，要约失效：\\n\\n（一）要约被拒绝；\\n\\n（二）要", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百七十八条"]}
+{"query": "中华人民共和国民法典第四百七十九条 承诺是受要约人同意要约的意思表示。\\n", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百七十九条"]}
+{"query": "中华人民共和国民法典第四百八十条 承诺应当以通知的方式作出；但是，根据交易习惯或者要约表明可以通过行为作", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百八十条"]}
+{"query": "中华人民共和国民法典第四百八十一条 承诺应当在要约确定的期限内到达要约人。\\n\\n要约没有确定承诺期限的，", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百八十一条"]}
+{"query": "中华人民共和国民法典第四百八十二条 要约以信件或者电报作出的，承诺期限自信件载明的日期或者电报交发之日开始", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百八十二条"]}
+{"query": "中华人民共和国民法典第四百八十三条 承诺生效时合同成立，但是法律另有规定或者当事人另有约定的除外。\\n", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百八十三条"]}
+{"query": "中华人民共和国民法典第四百八十四条 以通知方式作出的承诺，生效的时间适用本法第一百三十七条的规定。\\n\\n", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百八十四条"]}
+{"query": "中华人民共和国民法典第四百八十五条 承诺可以撤回。承诺的撤回适用本法第一百四十一条的规定。\\n", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百八十五条"]}
+{"query": "中华人民共和国民法典第四百八十六条 受要约人超过承诺期限发出承诺，或者在承诺期限内发出承诺，按照通常情形不", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百八十六条"]}
+{"query": "中华人民共和国民法典第四百八十七条 受要约人在承诺期限内发出承诺，按照通常情形能够及时到达要约人，但是因其", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百八十七条"]}
+{"query": "中华人民共和国民法典第四百八十八条 承诺的内容应当与要约的内容一致。受要约人对要约的内容作出实质性变更的，", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百八十八条"]}
+{"query": "中华人民共和国民法典第四百八十九条 承诺对要约的内容作出非实质性变更的，除要约人及时表示反对或者要约表明承", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百八十九条"]}
+{"query": "中华人民共和国民法典第四百九十条 当事人采用合同书形式订立合同的，自当事人均签名、盖章或者按指印时合同成", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百九十条"]}
+{"query": "中华人民共和国民法典第四百九十一条 当事人采用信件、数据电文等形式订立合同要求签订确认书的，签订确认书时合", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百九十一条"]}
+{"query": "中华人民共和国民法典第四百九十二条 承诺生效的地点为合同成立的地点。\\n\\n采用数据电文形式订立合同的，收", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百九十二条"]}
+{"query": "中华人民共和国民法典第四百九十三条 当事人采用合同书形式订立合同的，最后签名、盖章或者按指印的地点为合同成", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百九十三条"]}
+{"query": "中华人民共和国民法典第四百九十四条 国家根据抢险救灾、疫情防控或者其他需要下达国家订货任务、指令性任务的，", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百九十四条"]}
+{"query": "中华人民共和国民法典第四百九十五条 当事人约定在将来一定期限内订立合同的认购书、订购书、预订书等，构成预约", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百九十五条"]}
+{"query": "中华人民共和国民法典第四百九十六条 格式条款是当事人为了重复使用而预先拟定，并在订立合同时未与对方协商的条", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百九十六条"]}
+{"query": "中华人民共和国民法典第四百九十七条 有下列情形之一的，该格式条款无效：\\n\\n（一）具有本法第一编第六章第", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百九十七条"]}
+{"query": "中华人民共和国民法典第四百九十八条 对格式条款的理解发生争议的，应当按照通常理解予以解释。对格式条款有两种", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百九十八条"]}
+{"query": "中华人民共和国民法典第四百九十九条 悬赏人以公开方式声明对完成特定行为的人支付报酬的，完成该行为的人可以请", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百九十九条"]}
+{"query": "中华人民共和国民法典第五百条 当事人在订立合同过程中有下列情形之一，造成对方损失的，应当承担赔偿责任", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百条"]}
+{"query": "中华人民共和国民法典第五百零一条 当事人在订立合同过程中知悉的商业秘密或者其他应当保密的信息，无论合同是", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百零一条"]}
+{"query": "中华人民共和国民法典第五百零二条 依法成立的合同，自成立时生效，但是法律另有规定或者当事人另有约定的除外", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百零二条"]}
+{"query": "中华人民共和国民法典第五百零三条 无权代理人以被代理人的名义订立合同，被代理人已经开始履行合同义务或者接", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百零三条"]}
+{"query": "中华人民共和国民法典第五百零四条 法人的法定代表人或者非法人组织的负责人超越权限订立的合同，除相对人知道", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百零四条"]}
+{"query": "中华人民共和国民法典第五百零五条 当事人超越经营范围订立的合同的效力，应当依照本法第一编第六章第三节和本", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百零五条"]}
+{"query": "中华人民共和国民法典第五百零六条 合同中的下列免责条款无效：\\n\\n（一）造成对方人身损害的；\\n\\n（", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百零六条"]}
+{"query": "中华人民共和国民法典第五百零七条 合同不生效、无效、被撤销或者终止的，不影响合同中有关解决争议方法的条款", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百零七条"]}
+{"query": "中华人民共和国民法典第五百零八条 本编对合同的效力没有规定的，适用本法第一编第六章的有关规定。\\n\\n", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百零八条"]}
+{"query": "中华人民共和国民法典第五百零九条 当事人应当按照约定全面履行自己的义务。\\n\\n当事人应当遵循诚信原则，", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百零九条"]}
+{"query": "中华人民共和国民法典第五百一十条 合同生效后，当事人就质量、价款或者报酬、履行地点等内容没有约定或者约定", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十条"]}
+{"query": "中华人民共和国民法典第五百一十一条 当事人就有关合同内容约定不明确，依据前条规定仍不能确定的，适用下列规定", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十一条"]}
+{"query": "中华人民共和国民法典第五百一十二条 通过互联网等信息网络订立的电子合同的标的为交付商品并采用快递物流方式交", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十二条"]}
+{"query": "中华人民共和国民法典第五百一十三条 执行政府定价或者政府指导价的，在合同约定的交付期限内政府价格调整时，按", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十三条"]}
+{"query": "中华人民共和国民法典第五百一十四条 以支付金钱为内容的债，除法律另有规定或者当事人另有约定外，债权人可以请", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十四条"]}
+{"query": "中华人民共和国民法典第五百一十五条 标的有多项而债务人只需履行其中一项的，债务人享有选择权；但是，法律另有", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十五条"]}
+{"query": "中华人民共和国民法典第五百一十六条 当事人行使选择权应当及时通知对方，通知到达对方时，标的确定。标的确定后", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十六条"]}
+{"query": "中华人民共和国民法典第五百一十七条 债权人为二人以上，标的可分，按照份额各自享有债权的，为按份债权；债务人", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十七条"]}
+{"query": "中华人民共和国民法典第五百一十八条 债权人为二人以上，部分或者全部债权人均可以请求债务人履行债务的，为连带", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十八条"]}
+{"query": "中华人民共和国民法典第五百一十九条 连带债务人之间的份额难以确定的，视为份额相同。\\n\\n实际承担债务超过", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十九条"]}
+{"query": "中华人民共和国民法典第五百二十条 部分连带债务人履行、抵销债务或者提存标的物的，其他债务人对债权人的债务", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百二十条"]}
+{"query": "中华人民共和国民法典第五百二十一条 连带债权人之间的份额难以确定的，视为份额相同。\\n\\n实际受领债权的连", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百二十一条"]}
+{"query": "中华人民共和国民法典第五百二十二条 当事人约定由债务人向第三人履行债务，债务人未向第三人履行债务或者履行债", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百二十二条"]}
+{"query": "违章停车与违法停车是否有区别？", "source_type": "qa", "expected_keywords": ["违章停车与违法停车是否有"]}
+{"query": "人民法院执行实际施工人对发包人的到期债权的，转包人或者违法分包人是否有权提异议？", "source_type": "qa", "expected_keywords": ["人民法院执行实际施工人对"]}
+{"query": "诈骗罪量刑标准是什么?", "source_type": "qa", "expected_keywords": ["诈骗罪量刑标准是什么?"]}
+{"query": "被管制罪犯的义务是什么?", "source_type": "qa", "expected_keywords": ["被管制罪犯的义务是什么?"]}
+{"query": "管制的后果有哪些?", "source_type": "qa", "expected_keywords": ["管制的后果有哪些?"]}
+{"query": "开发商延期交房违约金怎么计算？", "source_type": "qa", "expected_keywords": ["开发商延期交房违约金怎么"]}
+{"query": "房产证是谁的名字就是谁所有吗?", "source_type": "qa", "expected_keywords": ["房产证是谁的名字就是谁所"]}
+{"query": "交通肇事全责能不追究刑事责任吗?", "source_type": "qa", "expected_keywords": ["交通肇事全责能不追究刑事"]}
+{"query": "公司变更经营范围的流程有哪些？", "source_type": "qa", "expected_keywords": ["公司变更经营范围的流程有"]}
+{"query": "劳动者加班费的计算方法?", "source_type": "qa", "expected_keywords": ["劳动者加班费的计算方法?"]}
+{"query": "生产销售假冒伪劣商品罪如何判", "source_type": "qa", "expected_keywords": ["生产销售假冒伪劣商品罪如"]}
+{"query": "单凭支付宝转账可以报警吗?", "source_type": "qa", "expected_keywords": ["单凭支付宝转账可以报警吗"]}
+{"query": "财产损害赔偿纠纷是侵权之诉还是违约之诉", "source_type": "qa", "expected_keywords": ["财产损害赔偿纠纷是侵权之"]}
+{"query": "怎样解决宅基地纠纷?", "source_type": "qa", "expected_keywords": ["怎样解决宅基地纠纷?"]}
+{"query": "婚前一方父母出资的房产归谁", "source_type": "qa", "expected_keywords": ["婚前一方父母出资的房产归"]}
+{"query": "帮信罪主犯没抓到怎么办?", "source_type": "qa", "expected_keywords": ["帮信罪主犯没抓到怎么办?"]}
+{"query": "离婚财产保全需要什么资料", "source_type": "qa", "expected_keywords": ["离婚财产保全需要什么资料"]}
+{"query": "准里实施许可合同备案需要提交的材料?", "source_type": "qa", "expected_keywords": ["准里实施许可合同备案需要"]}
+{"query": "违规出售已购经济适用住房有什么后果？", "source_type": "qa", "expected_keywords": ["违规出售已购经济适用住房"]}
+{"query": "死亡赔偿金的计算依据有哪些?", "source_type": "qa", "expected_keywords": ["死亡赔偿金的计算依据有哪"]}
+{"query": "工作时间以外支付工资的标准?", "source_type": "qa", "expected_keywords": ["工作时间以外支付工资的标"]}
+{"query": "借钱打的借钱欠条的有效期有多久", "source_type": "qa", "expected_keywords": ["借钱打的借钱欠条的有效期"]}
+{"query": "公司增资扩股常见的方式有哪些?", "source_type": "qa", "expected_keywords": ["公司增资扩股常见的方式有"]}
+{"query": "夫妻一方借债要怎样认定", "source_type": "qa", "expected_keywords": ["夫妻一方借债要怎样认定"]}
+{"query": "一方所欠赌债离婚时由谁还", "source_type": "qa", "expected_keywords": ["一方所欠赌债离婚时由谁还"]}
+{"query": "没有签字盖章的合同有效吗?", "source_type": "qa", "expected_keywords": ["没有签字盖章的合同有效吗"]}
+{"query": "上海市关于支付经济补偿金的规定?", "source_type": "qa", "expected_keywords": ["上海市关于支付经济补偿金"]}
+{"query": "产品瑕疵与产品缺陷的区别？", "source_type": "qa", "expected_keywords": ["产品瑕疵与产品缺陷的区别"]}
+{"query": "如果父母欠债儿女要还吗?", "source_type": "qa", "expected_keywords": ["如果父母欠债儿女要还吗?"]}
+{"query": "讨债时的证据应符合什么条件?", "source_type": "qa", "expected_keywords": ["讨债时的证据应符合什么条"]}
+{"query": "公司调岗，但不降低待遇，是否应该支付员工赔偿金？", "source_type": "qa", "expected_keywords": ["公司调岗，但不降低待遇，"]}
+{"query": "质量问题退货运费谁出", "source_type": "qa", "expected_keywords": ["质量问题退货运费谁出"]}
+{"query": "如何计算宗地和房屋面积？", "source_type": "qa", "expected_keywords": ["如何计算宗地和房屋面积？"]}
+{"query": "别人欠我的钱，房子作为抵押，并且长期不还款，我可以起诉他拍卖房子吗？", "source_type": "qa", "expected_keywords": ["别人欠我的钱，房子作为抵"]}
+{"query": "劳动合同变更的效力如何认定？", "source_type": "qa", "expected_keywords": ["劳动合同变更的效力如何认"]}
+{"query": "建筑设备租赁纠纷有哪些情况?", "source_type": "qa", "expected_keywords": ["建筑设备租赁纠纷有哪些情"]}
+{"query": "房产纠纷案件要提供什么证据", "source_type": "qa", "expected_keywords": ["房产纠纷案件要提供什么证"]}
+{"query": "小超市如何避免商标侵权", "source_type": "qa", "expected_keywords": ["小超市如何避免商标侵权"]}
+{"query": "夫妻一方出轨，离婚财产怎么分配，是否可以主张净身出户", "source_type": "qa", "expected_keywords": ["夫妻一方出轨，离婚财产怎"]}
+{"query": "企业聘请律师做常年法律顾问的流程?", "source_type": "qa", "expected_keywords": ["企业聘请律师做常年法律顾"]}
+{"query": "签订、履行合同失职罪根据造成损失的不同，量刑的不同？", "source_type": "qa", "expected_keywords": ["签订、履行合同失职罪根据"]}
+{"query": "夫妻离婚债务怎么处理", "source_type": "qa", "expected_keywords": ["夫妻离婚债务怎么处理"]}
+{"query": "民事借款合同纠纷传票什么意思", "source_type": "qa", "expected_keywords": ["民事借款合同纠纷传票什么"]}
+{"query": "破坏公用电信设施罪由什么构成", "source_type": "qa", "expected_keywords": ["破坏公用电信设施罪由什么"]}
+{"query": "破坏通讯设施罪立案标准", "source_type": "qa", "expected_keywords": ["破坏通讯设施罪立案标准"]}
+{"query": "借钱还债受到法律的保护吗？", "source_type": "qa", "expected_keywords": ["借钱还债受到法律的保护吗"]}
+{"query": "拘役之后犯罪还能取保候审吗?", "source_type": "qa", "expected_keywords": ["拘役之后犯罪还能取保候审"]}
+{"query": "股权转让印花税怎么交", "source_type": "qa", "expected_keywords": ["股权转让印花税怎么交"]}
+{"query": "介绍卖淫罪既遂如何处罚", "source_type": "qa", "expected_keywords": ["介绍卖淫罪既遂如何处罚"]}
+{"query": "介绍卖淫罪取保会判多久", "source_type": "qa", "expected_keywords": ["介绍卖淫罪取保会判多久"]}
+{"query": "劳务分包的规定有哪些?", "source_type": "qa", "expected_keywords": ["劳务分包的规定有哪些?"]}
+{"query": "帮信罪处罚标准是什么?", "source_type": "qa", "expected_keywords": ["帮信罪处罚标准是什么?"]}
+{"query": "如何有效举报网络诈骗?", "source_type": "qa", "expected_keywords": ["如何有效举报网络诈骗?"]}
+{"query": "夫妻共同债务清偿应遵循的原则有哪些？", "source_type": "qa", "expected_keywords": ["夫妻共同债务清偿应遵循的"]}
+{"query": "我提交了工伤鉴定申请书，是不是只能等仲裁，还能和公司协商吗？", "source_type": "qa", "expected_keywords": ["我提交了工伤鉴定申请书，"]}
+{"query": "法院对销售劣药罪一般会判几年", "source_type": "qa", "expected_keywords": ["法院对销售劣药罪一般会判"]}
+{"query": "如何处理拖欠工资的问题", "source_type": "qa", "expected_keywords": ["如何处理拖欠工资的问题"]}
+{"query": "合同未约定违约金怎么赔偿", "source_type": "qa", "expected_keywords": ["合同未约定违约金怎么赔偿"]}
+{"query": "取保候审和办理程序是什么?", "source_type": "qa", "expected_keywords": ["取保候审和办理程序是什么"]}
+{"query": "车辆未年检发生事故，保险公司是否应该理赔？", "source_type": "qa", "expected_keywords": ["车辆未年检发生事故，保险"]}
