@@ -32,11 +32,9 @@ chroma_law_qa_db/
 bm25_index_law/
 bm25_index_law_qa/
 
-# Generated outputs and temporary logs
-output/
+# Temporary logs
 Output.txt
 *.log
 
 # Local agent/cache folders
 .agents/
-

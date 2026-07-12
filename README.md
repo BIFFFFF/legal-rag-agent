@@ -32,6 +32,7 @@ data/
 materials/        用户材料示例
 skills/           报告和文书生成 skill
 judge-agent/      评测脚本、测试集和评测结果
+output/           示例 Markdown 报告输出
 ```
 
 ## 运行准备
@@ -110,7 +111,7 @@ query: 试用期辞职需要提前几天？
 请根据材料生成一份合同审查报告，并保存为 Markdown 文件。
 ```
 
-生成结果会保存到 `output` 目录。
+生成结果会保存到 `output` 目录。仓库中保留了少量示例 Markdown 报告，便于查看报告生成效果。
 
 ## 评测
 
