@@ -1,6 +1,6 @@
 # 法律领域 RAG 增强智能问答 Agent
 
-面向法律咨询与材料分析场景的 Agentic RAG demo。系统基于本地法律条文库和法律问答案例库，支持用户用自然语言提问，并通过 Agent 工具链完成法条检索、案例检索、材料读取、报告 skill 读取和 Markdown 报告生成。
+面向法律咨询与材料分析场景的 Agentic RAG 系统。系统基于本地法律条文库和法律问答案例库，支持用户用自然语言提问，并通过 Agent 工具链完成法条检索、案例检索、材料读取、报告 skill 读取和 Markdown 报告生成。
 
 ## 核心能力
 
@@ -138,36 +138,9 @@ reference_faithfulness = 96.62
 answer_quality = 96.51
 ```
 
-## GitHub 上传说明
-
-建议上传：
-
-- `src/`
-- `rag/`
-- `skills/`
-- `materials/` 中的示例材料
-- `judge-agent/`
-- `data/` 中的原始 jsonl 数据
-- `README.md`
-- `requirements.txt`
-- `.env.example`
-- `.gitignore`
-
-不建议上传：
-
-- `.env`
-- `.venv/`
-- `.hf_cache/`
-- `chroma_law_db/`
-- `chroma_law_qa_db/`
-- `bm25_index_law/`
-- `bm25_index_law_qa/`
-- `output/`
-
 ## 当前限制
 
 - 仅支持文本型法律材料，不支持图片 OCR 和扫描件 PDF。
-- 本项目是 demo，不构成正式法律意见。
+- 本项目仅用于学习与研究，不构成正式法律意见。
 - 首次运行检索时会加载本地 embedding 模型，CPU 环境下可能较慢。
 - 如果启用 Cross-Encoder 重排序，准确性可能提升，但 CPU 延迟也会明显增加。
-
