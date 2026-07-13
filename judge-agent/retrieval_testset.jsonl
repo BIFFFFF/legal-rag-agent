@@ -38,83 +38,243 @@
 {"query": "中华人民共和国民法典第五百条 当事人在订立合同过程中有下列情形之一，造成对方损失的，应当承担赔偿责任", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百条"]}
 {"query": "中华人民共和国民法典第五百零一条 当事人在订立合同过程中知悉的商业秘密或者其他应当保密的信息，无论合同是", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百零一条"]}
 {"query": "中华人民共和国民法典第五百零二条 依法成立的合同，自成立时生效，但是法律另有规定或者当事人另有约定的除外", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百零二条"]}
-{"query": "中华人民共和国民法典第五百零三条 无权代理人以被代理人的名义订立合同，被代理人已经开始履行合同义务或者接", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百零三条"]}
-{"query": "中华人民共和国民法典第五百零四条 法人的法定代表人或者非法人组织的负责人超越权限订立的合同，除相对人知道", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百零四条"]}
-{"query": "中华人民共和国民法典第五百零五条 当事人超越经营范围订立的合同的效力，应当依照本法第一编第六章第三节和本", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百零五条"]}
-{"query": "中华人民共和国民法典第五百零六条 合同中的下列免责条款无效：\\n\\n（一）造成对方人身损害的；\\n\\n（", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百零六条"]}
-{"query": "中华人民共和国民法典第五百零七条 合同不生效、无效、被撤销或者终止的，不影响合同中有关解决争议方法的条款", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百零七条"]}
-{"query": "中华人民共和国民法典第五百零八条 本编对合同的效力没有规定的，适用本法第一编第六章的有关规定。\\n\\n", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百零八条"]}
-{"query": "中华人民共和国民法典第五百零九条 当事人应当按照约定全面履行自己的义务。\\n\\n当事人应当遵循诚信原则，", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百零九条"]}
-{"query": "中华人民共和国民法典第五百一十条 合同生效后，当事人就质量、价款或者报酬、履行地点等内容没有约定或者约定", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十条"]}
-{"query": "中华人民共和国民法典第五百一十一条 当事人就有关合同内容约定不明确，依据前条规定仍不能确定的，适用下列规定", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十一条"]}
-{"query": "中华人民共和国民法典第五百一十二条 通过互联网等信息网络订立的电子合同的标的为交付商品并采用快递物流方式交", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十二条"]}
-{"query": "中华人民共和国民法典第五百一十三条 执行政府定价或者政府指导价的，在合同约定的交付期限内政府价格调整时，按", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十三条"]}
-{"query": "中华人民共和国民法典第五百一十四条 以支付金钱为内容的债，除法律另有规定或者当事人另有约定外，债权人可以请", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十四条"]}
-{"query": "中华人民共和国民法典第五百一十五条 标的有多项而债务人只需履行其中一项的，债务人享有选择权；但是，法律另有", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十五条"]}
-{"query": "中华人民共和国民法典第五百一十六条 当事人行使选择权应当及时通知对方，通知到达对方时，标的确定。标的确定后", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十六条"]}
-{"query": "中华人民共和国民法典第五百一十七条 债权人为二人以上，标的可分，按照份额各自享有债权的，为按份债权；债务人", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十七条"]}
-{"query": "中华人民共和国民法典第五百一十八条 债权人为二人以上，部分或者全部债权人均可以请求债务人履行债务的，为连带", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十八条"]}
-{"query": "中华人民共和国民法典第五百一十九条 连带债务人之间的份额难以确定的，视为份额相同。\\n\\n实际承担债务超过", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十九条"]}
-{"query": "中华人民共和国民法典第五百二十条 部分连带债务人履行、抵销债务或者提存标的物的，其他债务人对债权人的债务", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百二十条"]}
-{"query": "中华人民共和国民法典第五百二十一条 连带债权人之间的份额难以确定的，视为份额相同。\\n\\n实际受领债权的连", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百二十一条"]}
-{"query": "中华人民共和国民法典第五百二十二条 当事人约定由债务人向第三人履行债务，债务人未向第三人履行债务或者履行债", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百二十二条"]}
-{"query": "违章停车与违法停车是否有区别？", "source_type": "qa", "expected_keywords": ["违章停车与违法停车是否有"]}
-{"query": "人民法院执行实际施工人对发包人的到期债权的，转包人或者违法分包人是否有权提异议？", "source_type": "qa", "expected_keywords": ["人民法院执行实际施工人对"]}
-{"query": "诈骗罪量刑标准是什么?", "source_type": "qa", "expected_keywords": ["诈骗罪量刑标准是什么?"]}
-{"query": "被管制罪犯的义务是什么?", "source_type": "qa", "expected_keywords": ["被管制罪犯的义务是什么?"]}
-{"query": "管制的后果有哪些?", "source_type": "qa", "expected_keywords": ["管制的后果有哪些?"]}
-{"query": "开发商延期交房违约金怎么计算？", "source_type": "qa", "expected_keywords": ["开发商延期交房违约金怎么"]}
-{"query": "房产证是谁的名字就是谁所有吗?", "source_type": "qa", "expected_keywords": ["房产证是谁的名字就是谁所"]}
-{"query": "交通肇事全责能不追究刑事责任吗?", "source_type": "qa", "expected_keywords": ["交通肇事全责能不追究刑事"]}
-{"query": "公司变更经营范围的流程有哪些？", "source_type": "qa", "expected_keywords": ["公司变更经营范围的流程有"]}
-{"query": "劳动者加班费的计算方法?", "source_type": "qa", "expected_keywords": ["劳动者加班费的计算方法?"]}
-{"query": "生产销售假冒伪劣商品罪如何判", "source_type": "qa", "expected_keywords": ["生产销售假冒伪劣商品罪如"]}
-{"query": "单凭支付宝转账可以报警吗?", "source_type": "qa", "expected_keywords": ["单凭支付宝转账可以报警吗"]}
-{"query": "财产损害赔偿纠纷是侵权之诉还是违约之诉", "source_type": "qa", "expected_keywords": ["财产损害赔偿纠纷是侵权之"]}
-{"query": "怎样解决宅基地纠纷?", "source_type": "qa", "expected_keywords": ["怎样解决宅基地纠纷?"]}
-{"query": "婚前一方父母出资的房产归谁", "source_type": "qa", "expected_keywords": ["婚前一方父母出资的房产归"]}
-{"query": "帮信罪主犯没抓到怎么办?", "source_type": "qa", "expected_keywords": ["帮信罪主犯没抓到怎么办?"]}
-{"query": "离婚财产保全需要什么资料", "source_type": "qa", "expected_keywords": ["离婚财产保全需要什么资料"]}
-{"query": "准里实施许可合同备案需要提交的材料?", "source_type": "qa", "expected_keywords": ["准里实施许可合同备案需要"]}
-{"query": "违规出售已购经济适用住房有什么后果？", "source_type": "qa", "expected_keywords": ["违规出售已购经济适用住房"]}
-{"query": "死亡赔偿金的计算依据有哪些?", "source_type": "qa", "expected_keywords": ["死亡赔偿金的计算依据有哪"]}
-{"query": "工作时间以外支付工资的标准?", "source_type": "qa", "expected_keywords": ["工作时间以外支付工资的标"]}
-{"query": "借钱打的借钱欠条的有效期有多久", "source_type": "qa", "expected_keywords": ["借钱打的借钱欠条的有效期"]}
-{"query": "公司增资扩股常见的方式有哪些?", "source_type": "qa", "expected_keywords": ["公司增资扩股常见的方式有"]}
-{"query": "夫妻一方借债要怎样认定", "source_type": "qa", "expected_keywords": ["夫妻一方借债要怎样认定"]}
-{"query": "一方所欠赌债离婚时由谁还", "source_type": "qa", "expected_keywords": ["一方所欠赌债离婚时由谁还"]}
-{"query": "没有签字盖章的合同有效吗?", "source_type": "qa", "expected_keywords": ["没有签字盖章的合同有效吗"]}
-{"query": "上海市关于支付经济补偿金的规定?", "source_type": "qa", "expected_keywords": ["上海市关于支付经济补偿金"]}
-{"query": "产品瑕疵与产品缺陷的区别？", "source_type": "qa", "expected_keywords": ["产品瑕疵与产品缺陷的区别"]}
-{"query": "如果父母欠债儿女要还吗?", "source_type": "qa", "expected_keywords": ["如果父母欠债儿女要还吗?"]}
-{"query": "讨债时的证据应符合什么条件?", "source_type": "qa", "expected_keywords": ["讨债时的证据应符合什么条"]}
-{"query": "公司调岗，但不降低待遇，是否应该支付员工赔偿金？", "source_type": "qa", "expected_keywords": ["公司调岗，但不降低待遇，"]}
-{"query": "质量问题退货运费谁出", "source_type": "qa", "expected_keywords": ["质量问题退货运费谁出"]}
-{"query": "如何计算宗地和房屋面积？", "source_type": "qa", "expected_keywords": ["如何计算宗地和房屋面积？"]}
-{"query": "别人欠我的钱，房子作为抵押，并且长期不还款，我可以起诉他拍卖房子吗？", "source_type": "qa", "expected_keywords": ["别人欠我的钱，房子作为抵"]}
-{"query": "劳动合同变更的效力如何认定？", "source_type": "qa", "expected_keywords": ["劳动合同变更的效力如何认"]}
-{"query": "建筑设备租赁纠纷有哪些情况?", "source_type": "qa", "expected_keywords": ["建筑设备租赁纠纷有哪些情"]}
-{"query": "房产纠纷案件要提供什么证据", "source_type": "qa", "expected_keywords": ["房产纠纷案件要提供什么证"]}
-{"query": "小超市如何避免商标侵权", "source_type": "qa", "expected_keywords": ["小超市如何避免商标侵权"]}
-{"query": "夫妻一方出轨，离婚财产怎么分配，是否可以主张净身出户", "source_type": "qa", "expected_keywords": ["夫妻一方出轨，离婚财产怎"]}
-{"query": "企业聘请律师做常年法律顾问的流程?", "source_type": "qa", "expected_keywords": ["企业聘请律师做常年法律顾"]}
-{"query": "签订、履行合同失职罪根据造成损失的不同，量刑的不同？", "source_type": "qa", "expected_keywords": ["签订、履行合同失职罪根据"]}
-{"query": "夫妻离婚债务怎么处理", "source_type": "qa", "expected_keywords": ["夫妻离婚债务怎么处理"]}
-{"query": "民事借款合同纠纷传票什么意思", "source_type": "qa", "expected_keywords": ["民事借款合同纠纷传票什么"]}
-{"query": "破坏公用电信设施罪由什么构成", "source_type": "qa", "expected_keywords": ["破坏公用电信设施罪由什么"]}
-{"query": "破坏通讯设施罪立案标准", "source_type": "qa", "expected_keywords": ["破坏通讯设施罪立案标准"]}
-{"query": "借钱还债受到法律的保护吗？", "source_type": "qa", "expected_keywords": ["借钱还债受到法律的保护吗"]}
-{"query": "拘役之后犯罪还能取保候审吗?", "source_type": "qa", "expected_keywords": ["拘役之后犯罪还能取保候审"]}
-{"query": "股权转让印花税怎么交", "source_type": "qa", "expected_keywords": ["股权转让印花税怎么交"]}
-{"query": "介绍卖淫罪既遂如何处罚", "source_type": "qa", "expected_keywords": ["介绍卖淫罪既遂如何处罚"]}
-{"query": "介绍卖淫罪取保会判多久", "source_type": "qa", "expected_keywords": ["介绍卖淫罪取保会判多久"]}
+{"query": "公司入职一个多月还没跟我签劳动合同，这种情况合法的吗？", "source_type": "statute", "expected_keywords": ["劳动合同法第十条"]}
+{"query": "我刚入职公司说试用期一年，这个试用期是不是太长了？", "source_type": "statute", "expected_keywords": ["劳动合同法第十九条"]}
+{"query": "试用期工资公司能不能随便给，低于正式工资很多可以吗？", "source_type": "statute", "expected_keywords": ["劳动合同法第二十条"]}
+{"query": "我想辞职，公司要求必须提前一个月说，这个有法律依据吗？", "source_type": "statute", "expected_keywords": ["劳动合同法第三十七条"]}
+{"query": "老板一直拖工资，我能不能不提前通知就直接离职？", "source_type": "statute", "expected_keywords": ["劳动合同法第三十八条"]}
+{"query": "公司把我辞退了，什么情况下需要给经济补偿？", "source_type": "statute", "expected_keywords": ["劳动合同法第四十六条"]}
+{"query": "被公司裁掉之后，经济补偿到底按什么标准算？", "source_type": "statute", "expected_keywords": ["劳动合同法第四十七条"]}
+{"query": "公司一年都没签劳动合同，我能不能要求双倍工资？", "source_type": "statute", "expected_keywords": ["劳动合同法第八十二条"]}
+{"query": "单位拖欠工资或者加班费，劳动者可以要求什么处理？", "source_type": "statute", "expected_keywords": ["劳动合同法第八十五条"]}
+{"query": "员工没按规定离职给公司造成损失，公司能要求赔偿吗？", "source_type": "statute", "expected_keywords": ["劳动合同法第九十条"]}
+{"query": "我和别人签的合同受不受法律保护，口头反悔可以吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百六十五条"]}
+{"query": "合同一定要纸质签字才有效吗，微信聊天算不算书面形式？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百六十九条"]}
+{"query": "一份合同里面通常应该写清楚哪些基本内容？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第四百七十条"]}
+{"query": "合同签了以后，双方履行合同要遵守什么基本原则？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百零九条"]}
+{"query": "合同里有些地方没写清楚，后面发生争议该怎么补充确定？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十条"]}
+{"query": "合同双方都同意解除，这种解除方式法律认可吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百六十二条"]}
+{"query": "对方明确说不履行合同了，我能不能直接解除合同？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百六十三条"]}
+{"query": "解除合同是不是必须通知对方，通知到了才算解除吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百六十五条"]}
+{"query": "合同解除以后，已经付的钱和造成的损失怎么处理？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百六十六条"]}
+{"query": "对方违约不履行合同，我可以要求继续履行或者赔偿吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百七十七条"]}
+{"query": "合同里约定的违约金太高或者太低，法院能调整吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百八十五条"]}
+{"query": "定金最多能约定多少，超过合同金额百分之二十有效吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百八十六条"]}
+{"query": "我交了定金后对方违约，是不是可以要求双倍返还？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百八十七条"]}
+{"query": "朋友借我钱，这种借款合同法律上是怎么定义的？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第六百六十七条"]}
+{"query": "个人之间借钱必须写借条吗，没有书面借条就一定无效吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第六百六十八条"]}
+{"query": "借钱时对方先把利息从本金里扣掉，这样算合法的吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第六百七十条"]}
+{"query": "借款人没有按约定用途用钱，出借人能提前要回吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第六百七十三条"]}
+{"query": "借钱的利息什么时候付，合同没写清楚怎么办？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第六百七十四条"]}
+{"query": "借条约定了还款日期，到期是不是必须按时还？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第六百七十五条"]}
+{"query": "借款到期不还，出借人能不能要求逾期利息？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第六百七十六条"]}
+{"query": "自然人之间借钱，是写完借条就生效还是钱到账才生效？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第六百七十九条"]}
+{"query": "民间借贷利息约定得特别高，法律会不会支持？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第六百八十条"]}
+{"query": "租房合同法律上到底属于什么合同？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第七百零三条"]}
+{"query": "房屋租赁最长能签多少年，签三十年有效吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第七百零五条"]}
+{"query": "租房超过半年没有签书面合同，会被认定成什么租赁？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第七百零七条"]}
+{"query": "正常使用房子造成一点自然损耗，房东能要求赔偿吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第七百一十条"]}
+{"query": "租客把房子用坏了，房东能不能解除租赁合同？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第七百一十一条"]}
+{"query": "租的房子需要维修，一般是房东负责还是租客负责？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第七百一十二条"]}
+{"query": "房东不维修导致我没法正常住，租客可以要求减少租金吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第七百一十三条"]}
+{"query": "租客是不是有义务保管好租赁房屋和里面的东西？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第七百一十四条"]}
+{"query": "租客想装修或者改造房子，需不需要先经过房东同意？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第七百一十五条"]}
+{"query": "租客应该在什么时候交房租，合同没写清楚怎么办？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第七百二十一条"]}
+{"query": "租客一直拖欠房租，房东能不能解除合同？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第七百二十二条"]}
+{"query": "房东把正在出租的房子卖了，原来的租房合同还有效吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第七百二十五条"]}
+{"query": "房东卖房的时候，租客有没有优先购买的权利？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第七百二十六条"]}
+{"query": "租赁房子因为不可归责的原因损坏，租客还能不能解除合同？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第七百二十九条"]}
+{"query": "租房合同没写租期，双方可以随时解除吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第七百三十条"]}
+{"query": "租的房子有安全隐患，租客可以随时退租吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第七百三十一条"]}
+{"query": "租期到了以后，租客继续住房东也没反对，合同怎么算？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第七百三十四条"]}
+{"query": "婚姻里家暴、重婚或者借结婚要钱，法律是不是禁止？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千零四十二条"]}
+{"query": "什么情况下婚姻会被认定为无效？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千零五十一条"]}
+{"query": "被胁迫结婚，后面能不能向法院撤销婚姻？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千零五十二条"]}
+{"query": "婚后工资奖金和经营收入一般算夫妻共同财产吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千零六十二条"]}
+{"query": "婚前财产、遗嘱指定给一方的财产算不算夫妻共同财产？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千零六十三条"]}
+{"query": "父母不支付抚养费，孩子能不能要求给抚养费？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千零六十七条"]}
+{"query": "双方自愿离婚，离婚协议里必须写哪些内容？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千零七十六条"]}
+{"query": "协议离婚是不是有三十天冷静期？期间反悔怎么办？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千零七十七条"]}
+{"query": "一方不同意离婚，什么情况下法院可能判离？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千零七十九条"]}
+{"query": "女方怀孕期间，男方可以起诉离婚吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千零八十二条"]}
+{"query": "离婚后孩子归谁，法院主要看什么？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千零八十四条"]}
+{"query": "我在商场买到有质量问题的东西，商家应该退货还是维修？", "source_type": "statute", "expected_keywords": ["消费者权益保护法第二十四条"]}
+{"query": "商家故意卖假货欺骗消费者，我能不能要求三倍赔偿？", "source_type": "statute", "expected_keywords": ["消费者权益保护法第五十五条"]}
+{"query": "广告宣传和实际商品差很多，这种算虚假广告吗？", "source_type": "statute", "expected_keywords": ["广告法第二十八条"]}
+{"query": "小区物业服务很差，但物业费还要照交吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第九百四十四条"]}
+{"query": "物业有没有义务维护小区公共区域和基本安全？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第九百四十二条"]}
+{"query": "物业收费项目和公共收益是不是应该向业主公开？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第九百四十三条"]}
+{"query": "别人把我打伤了，医药费误工费这些可以要求赔吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千一百七十九条"]}
+{"query": "在酒店摔伤了，经营者没有尽到安全保障义务要负责吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千一百九十八条"]}
+{"query": "机动车发生交通事故造成损失，赔偿责任按什么规定处理？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千二百零八条"]}
+{"query": "别人侵犯我的权益造成损失，一般侵权责任怎么认定？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千一百六十五条"]}
+{"query": "侵权行为正在威胁我的财产安全，我能要求停止侵害吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千一百六十七条"]}
+{"query": "为了帮别人受伤了，受益人要不要给补偿？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一百八十三条"]}
+{"query": "一个行为既违约又侵权，受损方可以选择按哪个追责吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一百八十六条"]}
+{"query": "给别人做担保，保证合同法律上是什么意思？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第六百八十一条"]}
+{"query": "主合同无效了，担保合同是不是也会无效？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第六百八十二条"]}
+{"query": "保证合同里一般要写清楚哪些内容？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第六百八十四条"]}
+{"query": "担保没有写一般保证还是连带保证，会默认成哪种？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第六百八十六条"]}
+{"query": "一般保证人什么时候可以拒绝替债务人还钱？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第六百八十七条"]}
+{"query": "连带责任保证下，债权人能直接要求保证人还钱吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第六百八十八条"]}
+{"query": "担保范围没写清楚，保证人到底要承担哪些费用？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第六百九十一条"]}
+{"query": "合同约定不明确时，价款、地点这些怎么确定？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十一条"]}
+{"query": "网上买东西的电子合同，商品什么时候算交付？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百一十二条"]}
+{"query": "对方欠我好几笔钱，还的钱不够全部还清时先抵哪一笔？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百六十条"]}
+{"query": "债务人找不到债权人，钱或者物交不出去怎么办？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第五百七十条"]}
+{"query": "赠与出去的东西还能不能撤销？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第六百五十八条"]}
+{"query": "受赠人严重伤害赠与人，赠与人能撤销赠与吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第六百六十三条"]}
+{"query": "老人去世后没有遗嘱，哪些人属于第一顺序继承人？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千一百二十七条"]}
+{"query": "遗产继承开始以后，继承人想放弃继承应该怎么表示？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千一百二十四条"]}
+{"query": "遗嘱可以采用哪些形式，自己写的遗嘱算不算？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千一百三十四条"]}
+{"query": "打印遗嘱需要几个见证人才有效？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千一百三十六条"]}
+{"query": "遗嘱内容互相冲突，最后应该按哪一份算？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千一百四十二条"]}
+{"query": "没有生活来源的继承人，分遗产时能不能多照顾？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千一百三十条"]}
+{"query": "父母不履行抚养义务，孩子能要求父母给抚养费吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千零六十七条"]}
+{"query": "非婚生子女和婚生子女的权利一样吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千零七十一条"]}
+{"query": "离婚后不直接抚养孩子的一方还要付抚养费吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千零八十五条"]}
+{"query": "离婚分夫妻共同财产时，法院一般按什么原则处理？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千零八十七条"]}
+{"query": "对方家暴导致离婚，无过错方可以要求赔偿吗？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千零九十一条"]}
+{"query": "父母教育保护孩子不到位，孩子造成别人损失谁负责？", "source_type": "statute", "expected_keywords": ["中华人民共和国民法典第一千零六十八条"]}
+{"query": "劳动合同只约定试用期没有正式期限，这种试用期怎么算？", "source_type": "statute", "expected_keywords": ["劳动合同法第十九条"]}
+{"query": "公司解除劳动合同后是不是要给我出离职证明？", "source_type": "statute", "expected_keywords": ["劳动合同法第五十条"]}
+{"query": "违章停车与违法停车是否有区别？\nanswer:对违反道路交通安全法律、法规关于机动车停放、临时停车规定的，可以指出违法行为，并予以口头警告，令其立即驶离。机动车驾驶人不在现场或者虽在现场但拒绝立即驶离，妨碍其他车辆、行人通行的处二十元以上二百元以下罚款。现在人们大多是称作违法停车，因此在法律责任上也会更多一些，不要以为违反交通规章制度问题不大，不要认为违法停车是罚", "source_type": "qa", "expected_keywords": ["违章停车与违法停车是否有区别？"]}
+{"query": "人民法院执行实际施工人对发包人的到期债权的，转包人或者违法分包人是否有权提异议？\nanswer:根据《最高人民法院新建设工程施工合同司法解释（一）理解与适用》，人民法院出版社出版在转包和违法分包的情况下，存在三方当事人，两个法律关系。一是承包人与发包人之间的建设工程施工合同关系；二是承包人作为转包人或者违法分包人与转包或者违法分包中的承包人之间的转包和违法分包关系。实际施工人向发包人主张权利一般需具备三个要件：（", "source_type": "qa", "expected_keywords": ["人民法院执行实际施工人对发包人的到期债权的，转包人或者违法分包人是否有权提异议？"]}
+{"query": "诈骗罪量刑标准是什么?\nanswer:诈骗罪指的是以非法占有为目的，使用欺骗方法，骗取数额较大的公私财物的行为。欺骗行为的内容是使对方产生错误认识并作出行为人所希望的财产处分。现实生活中，诈骗罪的欺骗手段是多种多样的，有语言欺骗也有文字欺骗等。欺骗行为必须使对方产生或者继续维持错误认识，即使受骗者在判断上有一定的错误，也不妨碍欺骗行为的成立。需要注意的是，", "source_type": "qa", "expected_keywords": ["诈骗罪量刑标准是什么?"]}
+{"query": "被管制罪犯的义务是什么?\nanswer:被管制罪犯的义务为：1、遵守执行机关关于会客的规定;2、离开所居住的市、县或者迁居，应当报经执行机关批准。3、遵守法律、行政法规，服从监督;4、未经执行机关批准，不得行使言论、出版、集会、结社、游行、示威自由的权利;5、按照执行机关规定报告自己的活动情况。", "source_type": "qa", "expected_keywords": ["被管制罪犯的义务是什么?"]}
+{"query": "管制的后果有哪些?\nanswer:管制是被限制人身自由的刑罚。被判处管制的犯罪分子，在刑罚执行过程当中，要遵循一定的规定：1、 遵守法律、行政法规，服从监督;2、 未经执行机关批准，不得行使言论、出版、集会、结社、游行、示威自由的权利;3、 按照执行机关规定报告自己的活动情况;4、 遵守执行机关关于会客的规定;5、 离开所居住的市、县或者迁居，应当报经", "source_type": "qa", "expected_keywords": ["管制的后果有哪些?"]}
+{"query": "开发商延期交房违约金怎么计算？\nanswer:开发商延期交房违约金可以按照已交房款总额乘以同期银行贷款利率及延期交房时间来计算。当开发商出现延期交房情况时，若购房人与开发商签订的房屋买卖合同中已约定延期交房的违约金金额，则购房人可依据合同约定的金额要求开发商赔偿延期交房的违约金。 法律依据：《中华人民共和国民法典》第五百七十七条，当事人一方不履行合同义务或者履行合", "source_type": "qa", "expected_keywords": ["开发商延期交房违约金怎么计算？"]}
+{"query": "房产证是谁的名字就是谁所有吗?\nanswer:并不是房产证上的名字是谁房子就归谁。 原则上房屋产权以登记为准，房产证上名字是谁房子就是谁的，但不一定具有完整产权。我国实行不动产统一登记制度，取得、变更房屋所有权以房屋产权登记为准。房产登记的名字为房屋所有权人，婚后购买的房产仅登记一方名字的仍属夫妻共有财产，当事人另有约定的除外。 如果房子是在婚姻存续期间购买的，即", "source_type": "qa", "expected_keywords": ["房产证是谁的名字就是谁所有吗?"]}
+{"query": "交通肇事全责能不追究刑事责任吗?\nanswer:交通事故承担全部责任时，如果造成死亡一人或者重伤三人以上的，就会构成交通肇事罪，可以追究刑事责任。《最高人民法院关于审理交通肇事刑事案件具体应用法律若干问题的解释》第二条　交通肇事具有下列情形之一的，处三年以下有期徒刑或者拘役：(一)死亡一人或者重伤三人以上，负事故全部或者主要责任的;(二)死亡三人以上，负事故同等责任", "source_type": "qa", "expected_keywords": ["交通肇事全责能不追究刑事责任吗?"]}
+{"query": "公司变更经营范围的流程有哪些？\nanswer:公司变更经营范围的流程：1、召开股东会会议，形成变更经营范围的股东会决议;2、根据决议修改公司章程上的经营范围;3、然后携带股东会决议和修改后的章程，原营业执照正副本到工商行政管理部门申请经营范围的变更登记;4、领取并填写变更登记申请表，最好带上公章，法人章，连同上述资料提交;5、领取变更后的企业法人营业执照就可以了(", "source_type": "qa", "expected_keywords": ["公司变更经营范围的流程有哪些？"]}
+{"query": "劳动者加班费的计算方法?\nanswer:劳动者加班费的计算如下： 1、劳动者在下班结束之后加班的，加班工资应该不低于工资的百分之一百五十； 2、如果是在休息日加班且没有补休的，加班工资应不低于每日工资的百分之两百； 3、如果是法定节假日，加班工资不低于百分之三百。用人单位由于生产经营需要，经与工会和劳动者协商后可以延长工作时间，一般每日不得超过一小时。", "source_type": "qa", "expected_keywords": ["劳动者加班费的计算方法?"]}
+{"query": "生产销售假冒伪劣商品罪如何判\nanswer:1、生产、销售假冒伪劣商品，销售金额五万元以上的，构成生产、销售伪劣产品罪，处二年以下有期徒刑或者拘役，并处或者单处销售金额百分之五十以上二倍以下罚金;销售金额二十万元以上不满五十万元的，处二年以上七年以下有期徒刑，并处销售金额百分之五十以上二倍以下罚金。  法律依据：《中华人民共和国刑法》 第一百四十条生产者、销售者", "source_type": "qa", "expected_keywords": ["生产销售假冒伪劣商品罪如何判"]}
+{"query": "单凭支付宝转账可以报警吗?\nanswer:单凭支付宝转账可以报警，但是一定要能定性为诈骗等行为。诈骗在法律上的定义是“虚构或隐瞒事实，骗取钱财、非法占有”。关键看是否是在有虚构或隐瞒事实的前提下给的钱。如果是，就可能构成诈骗。如果不存在诈骗行为，只是普通的民事纠纷，公安机关不会受理。《刑法》第二百六十六条 【诈骗罪】诈骗公私财物，数额较大的，处三年以下有期徒刑", "source_type": "qa", "expected_keywords": ["单凭支付宝转账可以报警吗?"]}
+{"query": "财产损害赔偿纠纷是侵权之诉还是违约之诉\nanswer:财产损害赔偿纠纷既可能是侵权之诉也可能是违约之诉。 侵权责任和违约责任的最基本的形式都是损害赔偿。《民法典第238条规定侵害物权，造成权利人损害的，权利人可以请求损害赔偿，也可以请求承担其他民事责任。", "source_type": "qa", "expected_keywords": ["财产损害赔偿纠纷是侵权之诉还是违约之诉"]}
+{"query": "怎样解决宅基地纠纷?\nanswer:我国《土地管理法》中对宅基地纠纷的解决办法，主要有三种：1、协商解决。《土地管理法》第16条第1款规定：“土地所有权和使用权争议，由当事人协商解决。”据此规定，公民之间发生的宅基地纠纷，应当先通过协商的方式加以解决。2、行政解决。《土地管理法》第16条第2款规定：“个人之间，个人与单位之间争议，由乡级人民政府或者县级以", "source_type": "qa", "expected_keywords": ["怎样解决宅基地纠纷?"]}
+{"query": "婚前一方父母出资的房产归谁\nanswer:由双方父母出资购买的不动产，产权登记在一方子女名下的，该不动产可认定为双方按照各自父母的出资份额按份共有，但当事人另有约定的除外。 1.父母婚后全款出资，房屋登记在其子女名下。视为父母对其子女一方的赠与，即该房屋归其子女所有，非夫妻双方共同共有。 2.父母部分出资，剩余房款由夫妻双方共同支付。则出资父母并不能取得房屋的", "source_type": "qa", "expected_keywords": ["婚前一方父母出资的房产归谁"]}
+{"query": "帮信罪主犯没抓到怎么办?\nanswer:抓不到主犯长时间不能归案的话是可以对已经归案的犯罪嫌疑人先进行起诉判决的，如果所犯情节较轻，检察院也许会做出不予起诉的相关决定，如果起诉没有其他情节的话，其刑期不会超过两年。《中华人民共和国刑法》第八十八条在人民检察院、公安机关、国家安全机关立案侦查或者在人民法院受理案件以后，逃避侦查或者审判的，不受追诉期限的限制。被", "source_type": "qa", "expected_keywords": ["帮信罪主犯没抓到怎么办?"]}
+{"query": "离婚财产保全需要什么资料\nanswer:离婚财产保全需要资料有： 1.离婚财产保全需要资料有诉前财产保全申请书; 2.离婚财产保全需要资料有申请人的身份证或法人的营业执照，复印件; 3.申请人法定代表人证明; 4.被申请人身份证明：据找法网的了解被告是是自然人的，打 印常住人口信息表，如被告为夫妻，需证明夫妻关系。", "source_type": "qa", "expected_keywords": ["离婚财产保全需要什么资料"]}
+{"query": "准里实施许可合同备案需要提交的材料?\nanswer:申请专利实施许可合同备案的，应当提交下列文件： (一)许可人或者其委托的专利代理机构签字或者盖章的专利实施许可合同备案申请表; (二)专利实施许可合同; (三)双方当事人的身份证明; (四)委托专利代理机构的，注明委托权限的委托书; (五)其他需要提供的材料。", "source_type": "qa", "expected_keywords": ["准里实施许可合同备案需要提交的材料?"]}
+{"query": "违规出售已购经济适用住房有什么后果？\nanswer:根据《已购公有住房和经济适用住房上市出售管理暂行办法》第5 条、第 13 条、第 14 条以及第 15 条的相关规定，将不准上市出售的经济适用住房上市出售的，处以 10000 元以上 30000 元以下罚款。将已购公有住房和经济适用住房上市出售后，该户家庭又以非法手段按照成本价（或者标准价）购买公有住房或者政府提供优惠", "source_type": "qa", "expected_keywords": ["违规出售已购经济适用住房有什么后果？"]}
+{"query": "死亡赔偿金的计算依据有哪些?\nanswer:死亡赔偿金的计算依据有以下几点： 1.死亡赔偿金与受诉法院的经济水平有关。如果受诉法院所在地的经济水平较好的话，其城镇居民人均可支配收入或者农村居民人均纯收入基数就会比较高，从而死亡赔偿金的总数就会比较高。 2.死亡赔偿金与死者户口有关。同一地区，其城镇居民人均可支配收入和农村居民人均纯收入是不一致的，往往有时还会存在", "source_type": "qa", "expected_keywords": ["死亡赔偿金的计算依据有哪些?"]}
+{"query": "工作时间以外支付工资的标准?\nanswer:用人单位在劳动者完成劳动定额或规定的工作任务后，根据实际需要安排劳动者在法定标准工作时间以外工作的，应按以下标准支付工资 (一)用人单位依法安排劳动者在日法定标准工作时间以外延长工作时间的，按照不低于劳动合同规定的劳动者本人小时工资标准的150%支付劳动者工资; (二)用人单位依法安排劳动者在休息日工作，而又不能安排补", "source_type": "qa", "expected_keywords": ["工作时间以外支付工资的标准?"]}
+{"query": "借钱打的借钱欠条的有效期有多久\nanswer:借钱打的借条有效期分为两种： 1.借条是依法成立的，借条本身一直有效，能证明借贷关系成立。 2.借款人到期不还款的，向法院主张权利的起诉时效是3年，最长不超过20年。 法律规定：《中华人民共和国民法典》第一百四十三条 【民事法律行为有效的条件】具备下列条件的民事法律行为有效： (一)行为人具有相应的民事行为能力； (二", "source_type": "qa", "expected_keywords": ["借钱打的借钱欠条的有效期有多久"]}
+{"query": "公司增资扩股常见的方式有哪些?\nanswer:增资扩股是指企业向社会募集股份、发行股票、新股东投资入股或原股东增加投资扩大股权，从而增加企业的资本金。 对于有限责任公司而言，增资扩股一般是指企业增加注册资本，增加的部分由新股东认购或新股东与老股东共同认购。(1)按原出资比例增加出资额，而不改变出资比例。增资后，各股东出资比例保持不变，这种方法只能用于在原股东范围内", "source_type": "qa", "expected_keywords": ["公司增资扩股常见的方式有哪些?"]}
+{"query": "夫妻一方借债要怎样认定\nanswer:1、个人婚前债务。对一方婚前已经形成的债务，原则上认定为夫妻中一方的个人债务;债权人能够证明所欠债务用于婚后共同生活的，应当认定为共同债务，由夫妻双方共同偿还;上述两种情况的证明责任由主张权利的债权人承担。2、婚姻关系存续期间的以一方名义所欠的债务。按照司法解释的规定，属于婚姻关系存续期间以一方名义欠下的债务，原则上应", "source_type": "qa", "expected_keywords": ["夫妻一方借债要怎样认定"]}
+{"query": "一方所欠赌债离婚时由谁还\nanswer:1、一方赌博所借的债务，由于该债务未用于夫妻共同生活和家庭生活，属于一方个人不合理的开支，不属于夫妻共同债务的范围，因而应由举债人个人自行承担，配偶另一方不承担偿还责任。2、应当指出的是，根据我国法律规定，违法的债务不受法律保护。赌博，为我国法律所明令禁止，赌债属于非法债务，不受法律保护。3、如果出借人明知举债人所借债", "source_type": "qa", "expected_keywords": ["一方所欠赌债离婚时由谁还"]}
+{"query": "没有签字盖章的合同有效吗?\nanswer:在合同书中双方当事人的签字盖章是十分重要的，没有双方当事人的签字盖章，就不能最终确认当事人对合同的内容协商一致，也就不能证明合同的成立有效。当事人采用合同书形式订立合同的，自双方当事人签字或者盖章时合同成立。但是，双方当事人的签字盖章也只是形式问题，实质上应当追求当事人的真实意思。如果一个以合同书形式订立的合同已经履行", "source_type": "qa", "expected_keywords": ["没有签字盖章的合同有效吗?"]}
+{"query": "上海市关于支付经济补偿金的规定?\nanswer:上海市高级人民法院关于印发《关于适用<劳动合同法>若干问题的意见》沪高法【2009】73号二十一、关于经济补偿金“分段计算”的问题 根据《劳动合同法》第九十七条的规定，《劳动合同法》施行之日存续的劳动合同，在《劳动合同法》施行后解除或终止的，其经济补偿金的具体计算方法如下：（一）《劳动合同法》与2008年1月1日之前施", "source_type": "qa", "expected_keywords": ["上海市关于支付经济补偿金的规定?"]}
+{"query": "产品瑕疵与产品缺陷的区别？\nanswer:产品瑕疵与产品缺陷的区别如下： 1.损害结果不同。产品瑕疵的损害结果为产品不符合以产品说明、实物样品等，而产品缺陷的损害结果为导致使用人人身或财产损害； 2.维权方式不同。消费者对于产品瑕疵只能申请违约责任，而产品缺陷可以申请人身赔偿或违约赔偿。", "source_type": "qa", "expected_keywords": ["产品瑕疵与产品缺陷的区别？"]}
+{"query": "如果父母欠债儿女要还吗?\nanswer:1、父母欠债一般不需要儿女还的，父与子是两个独立的民事主体，不因血缘关系的存在而混同，父债与其子无关。除非父母欠债没有偿还就死亡的，儿女作为法定继承人继承遗产的，应偿还被继承人生前所欠债务，但应以遗产实际价值为限，超出部分，继承人不负偿还义务。 法律依据：《民法典》第一千一百六十一条 继承人以所得遗产实际价值为限清偿被", "source_type": "qa", "expected_keywords": ["如果父母欠债儿女要还吗?"]}
+{"query": "讨债时的证据应符合什么条件?\nanswer:讨债时的证据应符合：1、提供能够证明债权、债务关系存在的借据、欠条或合同等书面证据。没有书证的，应提供形成债权债务关系的时间、地点、金额，并提供无利害关系的证人证言或证据线索。2、有担保人的，应提供担保人的姓名、性别、年龄、工作单位和住址;担保人是法人的，应提供法人单位名称、法定代表人及其住址。有担保协议的应提供书面担", "source_type": "qa", "expected_keywords": ["讨债时的证据应符合什么条件?"]}
+{"query": "公司调岗，但不降低待遇，是否应该支付员工赔偿金？\nanswer:销售主管被调岗为普通销售员，罗女士认为这样的调岗具有侮辱性，要求公司赔偿20万元；而公司则表示属于整个公司组织结构调整，并且其薪资及职位都无变化，仅工作内容有变，与罗女士解除劳动合同不属于违法解除。双方闹上法庭，最终法院认定公司与罗女士解除劳动合同不属于违法解除情形，无需向罗女士支付赔偿金。单位有责任支付罗女士赔偿金吗", "source_type": "qa", "expected_keywords": ["公司调岗，但不降低待遇，是否应该支付员工赔偿金？"]}
+{"query": "质量问题退货运费谁出\nanswer:因质量问题产生的退货，所有邮费由卖家出。根据《民法典》侵权篇以及消费者权益保护法的规定，消费者无需承担退换货运费。如果消费者在购买产品的时候购买了运费险，那么无论何种情况下产生的退货换货，都不需要承担退换货运费。", "source_type": "qa", "expected_keywords": ["质量问题退货运费谁出"]}
+{"query": "如何计算宗地和房屋面积？\nanswer:采用解析法测绘的，应采用坐标法计算面积，即利用解析界址点和房角点坐标，按照相关面积计算公式计算宗地和房屋面积。采用勘丈法的，应采用几何要素法计算面积，即利用实地丈量的宗地界址边长和房屋边长，按照宗地范围和房屋占地范围的几何图形，通过长*宽等几何方法计算宗地和房屋面积。采用图解法的，原则上应采用几何要素法利用丈量结果计算", "source_type": "qa", "expected_keywords": ["如何计算宗地和房屋面积？"]}
+{"query": "别人欠我的钱，房子作为抵押，并且长期不还款，我可以起诉他拍卖房子吗？\nanswer:首先起诉，胜诉后申请强制执行，如果对方没有履行还款义务，也没有可以直接扣划的资金，可以拍卖抵押房产。如果拍卖成交，你作为抵押权人，优先受偿。同时建议在起诉之后当事人可以选择财产保全对欠债人房产进行保全防止其私下交易或者转移财产，在这样的情况下赢得官司就可以申请强制执行拍卖房产。", "source_type": "qa", "expected_keywords": ["别人欠我的钱，房子作为抵押，并且长期不还款，我可以起诉他拍卖房子吗？"]}
+{"query": "劳动合同变更的效力如何认定？\nanswer:劳动合同是劳动关系双方当事人协商一致签订的。那么，除了出现法定变更事由，劳动合同的变更同样也应该由双方当事人自愿协商、达成一致，才能予以变更。 用人单位或劳动者单方面任意变更劳动合同的，在法律上是无效行为，劳动合同变更的内容对另一方当事人没有约束力。 同时，劳动合同变更要符合法律、行政法规的规定，违背法律、行政法规规定", "source_type": "qa", "expected_keywords": ["劳动合同变更的效力如何认定？"]}
+{"query": "建筑设备租赁纠纷有哪些情况?\nanswer:建筑设备租赁合同是指建筑设备的出租人将建筑设备提供给承租人使用、收益，承租人定期给付约定租金，井于合同终止时将设备完好地归还出租人的合同。建筑设备租赁合同纠纷是指当事人之间就建筑设备出租人将建筑设备出租给承租人使用的合同所产生的纠纷。 出租、承租双方只在合同涉及设备的出租期限、租金及支付方式做简要约定，而对合同的责任承", "source_type": "qa", "expected_keywords": ["建筑设备租赁纠纷有哪些情况?"]}
+{"query": "房产纠纷案件要提供什么证据\nanswer:1、提供争议房屋的土地房产证、私有房屋产权证书、建房申批手续，继承或接受赠予的证明材料，通过买卖、典当或抵押取得房屋产权的，应提供买卖、典当或抵押契约。2、提供房屋座落地点、间数、结构、面积及使用情况等证明材料。3、房屋共有的，应提供共有的形式;是按份共有还是共同共有。共有房屋的形成原因：是共同建造、共同购买、共同继承", "source_type": "qa", "expected_keywords": ["房产纠纷案件要提供什么证据"]}
+{"query": "小超市如何避免商标侵权\nanswer:最近笔者经常看到有关小超市、小商店商标侵权的案件。原告往往是较为知名的品牌公司，案件标的额比较小，此类案件最终也多以小超市、小商店被判侵权赔偿告终。比如前两年，中国第一铅笔有限公司（简称“中华铅笔”），就把云南丽江某街道上一连串便利店、副食店分别告上法庭，理由均是被告售卖假冒的“中华牌”铅笔，侵犯了中华铅笔的商标专用权", "source_type": "qa", "expected_keywords": ["小超市如何避免商标侵权"]}
+{"query": "夫妻一方出轨，离婚财产怎么分配，是否可以主张净身出户\nanswer:出轨一方属于过错方，分割财产时无过错方可以多分。但不管在任何情况下，男女双方离婚时，双方都有权获得财产。只要双方未达成一致意见，净身出户的可能性近乎为零。如果协议离婚中，一方答应净身出户，法律并不干涉。通常，离婚时财产分割遵循以下原则：若能双方协商一致，或者签署有真实有效的内部协议，则尊重当事人的意思表示;如果没有办法", "source_type": "qa", "expected_keywords": ["夫妻一方出轨，离婚财产怎么分配，是否可以主张净身出户"]}
+{"query": "企业聘请律师做常年法律顾问的流程?\nanswer:企业聘请律师做常年法律顾问的流程： 1、确定是否聘请律师担任其常年法律顾问； 2、与律师事务所签订《聘用协议》； 3、根据《聘用协议》支付律师费用（包括办案经费）； 4、接受律师事务所指派或由律师事务所委派承办具体案件。", "source_type": "qa", "expected_keywords": ["企业聘请律师做常年法律顾问的流程?"]}
+{"query": "拘役之后犯罪还能取保候审吗?", "source_type": "qa", "expected_keywords": ["拘役之后犯罪还能取保候审吗?"]}
 {"query": "劳务分包的规定有哪些?", "source_type": "qa", "expected_keywords": ["劳务分包的规定有哪些?"]}
 {"query": "帮信罪处罚标准是什么?", "source_type": "qa", "expected_keywords": ["帮信罪处罚标准是什么?"]}
 {"query": "如何有效举报网络诈骗?", "source_type": "qa", "expected_keywords": ["如何有效举报网络诈骗?"]}
-{"query": "夫妻共同债务清偿应遵循的原则有哪些？", "source_type": "qa", "expected_keywords": ["夫妻共同债务清偿应遵循的"]}
-{"query": "我提交了工伤鉴定申请书，是不是只能等仲裁，还能和公司协商吗？", "source_type": "qa", "expected_keywords": ["我提交了工伤鉴定申请书，"]}
-{"query": "法院对销售劣药罪一般会判几年", "source_type": "qa", "expected_keywords": ["法院对销售劣药罪一般会判"]}
-{"query": "如何处理拖欠工资的问题", "source_type": "qa", "expected_keywords": ["如何处理拖欠工资的问题"]}
-{"query": "合同未约定违约金怎么赔偿", "source_type": "qa", "expected_keywords": ["合同未约定违约金怎么赔偿"]}
-{"query": "取保候审和办理程序是什么?", "source_type": "qa", "expected_keywords": ["取保候审和办理程序是什么"]}
-{"query": "车辆未年检发生事故，保险公司是否应该理赔？", "source_type": "qa", "expected_keywords": ["车辆未年检发生事故，保险"]}
+{"query": "取保候审和办理程序是什么?", "source_type": "qa", "expected_keywords": ["取保候审和办理程序是什么?"]}
+{"query": "婚内女方买房子不想分财产给男方怎么办?", "source_type": "qa", "expected_keywords": ["婚内女方买房子不想分财产给男方怎么办?"]}
+{"query": "起诉离婚提供的证据有哪些?", "source_type": "qa", "expected_keywords": ["起诉离婚提供的证据有哪些?"]}
+{"query": "离婚协议书在法律上可以生效吗?", "source_type": "qa", "expected_keywords": ["离婚协议书在法律上可以生效吗?"]}
+{"query": "分居一年了可以离婚吗?", "source_type": "qa", "expected_keywords": ["分居一年了可以离婚吗?"]}
+{"query": "分居两年以上法院一定会判决离婚吗?", "source_type": "qa", "expected_keywords": ["分居两年以上法院一定会判决离婚吗?"]}
+{"query": "三期内被辞退可以要求赔偿吗?", "source_type": "qa", "expected_keywords": ["三期内被辞退可以要求赔偿吗?"]}
+{"query": "合同的解除与终止有何区别?", "source_type": "qa", "expected_keywords": ["合同的解除与终止有何区别?"]}
+{"query": "保险赔偿属于夫妻共同财产吗?", "source_type": "qa", "expected_keywords": ["保险赔偿属于夫妻共同财产吗?"]}
+{"query": "虚假操作操纵证券市场内的表现?", "source_type": "qa", "expected_keywords": ["虚假操作操纵证券市场内的表现?"]}
+{"query": "行贿罪量刑十年以上的情形有哪些?", "source_type": "qa", "expected_keywords": ["行贿罪量刑十年以上的情形有哪些?"]}
+{"query": "民法典增加的两种遗嘱方式?", "source_type": "qa", "expected_keywords": ["民法典增加的两种遗嘱方式?"]}
+{"query": "请求离婚经济补偿的条件有哪些?", "source_type": "qa", "expected_keywords": ["请求离婚经济补偿的条件有哪些?"]}
+{"query": "取保候审期间可以去外地工作吗?", "source_type": "qa", "expected_keywords": ["取保候审期间可以去外地工作吗?"]}
+{"query": "个人劳务合同纠纷如何处理?", "source_type": "qa", "expected_keywords": ["个人劳务合同纠纷如何处理?"]}
+{"query": "诈骗坐牢去了钱要还吗?", "source_type": "qa", "expected_keywords": ["诈骗坐牢去了钱要还吗?"]}
+{"query": "婚前存款婚后取了再存属于个人财产吗?", "source_type": "qa", "expected_keywords": ["婚前存款婚后取了再存属于个人财产吗?"]}
+{"query": "已经抵押的房屋可以多次抵押么?", "source_type": "qa", "expected_keywords": ["已经抵押的房屋可以多次抵押么?"]}
+{"query": "无偿帮工责任承担?", "source_type": "qa", "expected_keywords": ["无偿帮工责任承担?"]}
+{"query": "起诉离婚前转移财产怎么办?", "source_type": "qa", "expected_keywords": ["起诉离婚前转移财产怎么办?"]}
+{"query": "按份责任与连带责任的不同?", "source_type": "qa", "expected_keywords": ["按份责任与连带责任的不同?"]}
+{"query": "遗嘱继承诉讼费是多少?", "source_type": "qa", "expected_keywords": ["遗嘱继承诉讼费是多少?"]}
+{"query": "债权转让,申请变更执行人的时间节点?", "source_type": "qa", "expected_keywords": ["债权转让,申请变更执行人的时间节点?"]}
+{"query": "借款合同要写明的条款都有什么?", "source_type": "qa", "expected_keywords": ["借款合同要写明的条款都有什么?"]}
+{"query": "面临家暴应该怎么办?", "source_type": "qa", "expected_keywords": ["面临家暴应该怎么办?"]}
+{"query": "拆迁不同意,如何处理?", "source_type": "qa", "expected_keywords": ["拆迁不同意,如何处理?"]}
+{"query": "同居期间财产的分割主要依据包括什么?", "source_type": "qa", "expected_keywords": ["同居期间财产的分割主要依据包括什么?"]}
+{"query": "虚假诉讼罪的既遂和未遂?", "source_type": "qa", "expected_keywords": ["虚假诉讼罪的既遂和未遂?"]}
+{"query": "无诉讼行为能力的人如何参加诉讼?", "source_type": "qa", "expected_keywords": ["无诉讼行为能力的人如何参加诉讼?"]}
+{"query": "可解除无期限合同的情形有什么?", "source_type": "qa", "expected_keywords": ["可解除无期限合同的情形有什么?"]}
+{"query": "公司创立大会的职责?", "source_type": "qa", "expected_keywords": ["公司创立大会的职责?"]}
+{"query": "工伤与交通事故并存怎么赔偿，伤残标准是一样的吗?", "source_type": "qa", "expected_keywords": ["工伤与交通事故并存怎么赔偿，伤残标准是一样的吗?"]}
+{"query": "贷款滞纳金有上限吗?", "source_type": "qa", "expected_keywords": ["贷款滞纳金有上限吗?"]}
+{"query": "误诊如何维权?", "source_type": "qa", "expected_keywords": ["误诊如何维权?"]}
+{"query": "如何把婚前房产变为婚后共同财产?", "source_type": "qa", "expected_keywords": ["如何把婚前房产变为婚后共同财产?"]}
+{"query": "开发商逾期办证的认定?", "source_type": "qa", "expected_keywords": ["开发商逾期办证的认定?"]}
+{"query": "取保候审判刑几率大吗，取保候审判刑后保证金退还吗?", "source_type": "qa", "expected_keywords": ["取保候审判刑几率大吗，取保候审判刑后保证金退还吗?"]}
+{"query": "被公司辞退竞业协议是否有效?", "source_type": "qa", "expected_keywords": ["被公司辞退竞业协议是否有效?"]}
+{"query": "伪造企业印章罪的犯罪构成有哪些?", "source_type": "qa", "expected_keywords": ["伪造企业印章罪的犯罪构成有哪些?"]}
+{"query": "伪造公章和伪造印章罪的区别?", "source_type": "qa", "expected_keywords": ["伪造公章和伪造印章罪的区别?"]}
+{"query": "最高院审理民间借贷纠纷案件的规定有哪些?", "source_type": "qa", "expected_keywords": ["最高院审理民间借贷纠纷案件的规定有哪些?"]}
+{"query": "累犯轻的能缓吗?", "source_type": "qa", "expected_keywords": ["累犯轻的能缓吗?"]}
+{"query": "假结婚的法律风险有哪些?", "source_type": "qa", "expected_keywords": ["假结婚的法律风险有哪些?"]}
+{"query": "保外就医计入刑期吗?", "source_type": "qa", "expected_keywords": ["保外就医计入刑期吗?"]}
+{"query": "著作权侵权的行为具体有哪些?", "source_type": "qa", "expected_keywords": ["著作权侵权的行为具体有哪些?"]}
+{"query": "2023工伤五级伤残的赔偿标准是多少?", "source_type": "qa", "expected_keywords": ["2023工伤五级伤残的赔偿标准是多少?"]}
+{"query": "工资资不抵债,债务产生后,股东会决定延期出资,债权人如何维权?", "source_type": "qa", "expected_keywords": ["工资资不抵债,债务产生后,股东会决定延期出资,债权人如何维权?"]}
+{"query": "2023年安徽省关于精神损害赔偿的规定?", "source_type": "qa", "expected_keywords": ["2023年安徽省关于精神损害赔偿的规定?"]}
+{"query": "民事诉讼中的电子数据包括哪些?", "source_type": "qa", "expected_keywords": ["民事诉讼中的电子数据包括哪些?"]}
+{"query": "公司发行新股的条件有哪些?", "source_type": "qa", "expected_keywords": ["公司发行新股的条件有哪些?"]}
+{"query": "企业法律风险防范有哪些?", "source_type": "qa", "expected_keywords": ["企业法律风险防范有哪些?"]}
+{"query": "监事会议事方式和镖局程序可以如何约定?", "source_type": "qa", "expected_keywords": ["监事会议事方式和镖局程序可以如何约定?"]}
+{"query": "解除房屋买卖合同的情况具体有哪些?", "source_type": "qa", "expected_keywords": ["解除房屋买卖合同的情况具体有哪些?"]}
+{"query": "法定的六种遗嘱形式?", "source_type": "qa", "expected_keywords": ["法定的六种遗嘱形式?"]}
+{"query": "无效婚姻的法律后果?", "source_type": "qa", "expected_keywords": ["无效婚姻的法律后果?"]}
+{"query": "医疗事故损害赔偿责任的归责原则有哪些?", "source_type": "qa", "expected_keywords": ["医疗事故损害赔偿责任的归责原则有哪些?"]}
+{"query": "固定总价合同的概念和规定?", "source_type": "qa", "expected_keywords": ["固定总价合同的概念和规定?"]}
+{"query": "主动辞职单位也要付经济补偿的情形是什么?", "source_type": "qa", "expected_keywords": ["主动辞职单位也要付经济补偿的情形是什么?"]}
+{"query": "亲哥算直系亲属吗?", "source_type": "qa", "expected_keywords": ["亲哥算直系亲属吗?"]}
+{"query": "法定代表人越权担保,债权人善意的认定?", "source_type": "qa", "expected_keywords": ["法定代表人越权担保,债权人善意的认定?"]}
+{"query": "网上开设赌场的定罪和量刑?", "source_type": "qa", "expected_keywords": ["网上开设赌场的定罪和量刑?"]}
+{"query": "加班不给加班费怎么办?", "source_type": "qa", "expected_keywords": ["加班不给加班费怎么办?"]}
+{"query": "离婚时如何清算公司财产?", "source_type": "qa", "expected_keywords": ["离婚时如何清算公司财产?"]}
+{"query": "走私犯罪的客体有哪些?", "source_type": "qa", "expected_keywords": ["走私犯罪的客体有哪些?"]}
+{"query": "按份共有,多数份额的人能否直接转让房产?", "source_type": "qa", "expected_keywords": ["按份共有,多数份额的人能否直接转让房产?"]}
+{"query": "遗产管理人的确定?", "source_type": "qa", "expected_keywords": ["遗产管理人的确定?"]}
+{"query": "取保候审遵守的规则?", "source_type": "qa", "expected_keywords": ["取保候审遵守的规则?"]}
+{"query": "按份责任与连带责任的区分?", "source_type": "qa", "expected_keywords": ["按份责任与连带责任的区分?"]}
+{"query": "举证责任倒置需要具备的条件?", "source_type": "qa", "expected_keywords": ["举证责任倒置需要具备的条件?"]}
+{"query": "第二次起诉离婚前应该做什么?", "source_type": "qa", "expected_keywords": ["第二次起诉离婚前应该做什么?"]}
+{"query": "职业放贷人需要承担的法律后果有哪些?", "source_type": "qa", "expected_keywords": ["职业放贷人需要承担的法律后果有哪些?"]}
+{"query": "刑事案件上诉发回重审加刑吗?", "source_type": "qa", "expected_keywords": ["刑事案件上诉发回重审加刑吗?"]}
+{"query": "邻居新盖的二层小楼挡住了阳光，怎么办?", "source_type": "qa", "expected_keywords": ["邻居新盖的二层小楼挡住了阳光，怎么办?"]}
+{"query": "夫妻离婚结婚时的彩礼钱要返还吗?", "source_type": "qa", "expected_keywords": ["夫妻离婚结婚时的彩礼钱要返还吗?"]}
+{"query": "战时拒绝、故意延误军事订货罪的构成要件是什么?", "source_type": "qa", "expected_keywords": ["战时拒绝、故意延误军事订货罪的构成要件是什么?"]}
+{"query": "战时故意延误军事订货罪通常情况下是怎么判刑的?", "source_type": "qa", "expected_keywords": ["战时故意延误军事订货罪通常情况下是怎么判刑的?"]}
+{"query": "聊天记录可以作为法律证据吗?", "source_type": "qa", "expected_keywords": ["聊天记录可以作为法律证据吗?"]}
+{"query": "建设工程分包规定有哪些?", "source_type": "qa", "expected_keywords": ["建设工程分包规定有哪些?"]}
+{"query": "合伙企业散货的情形具体有哪些?", "source_type": "qa", "expected_keywords": ["合伙企业散货的情形具体有哪些?"]}
+{"query": "喝酒驾驶电动三轮车算不算酒驾?", "source_type": "qa", "expected_keywords": ["喝酒驾驶电动三轮车算不算酒驾?"]}
+{"query": "无偿给他人提供住宿,属于好意施惠行为,收到侵害是否承担责任?", "source_type": "qa", "expected_keywords": ["无偿给他人提供住宿,属于好意施惠行为,收到侵害是否承担责任?"]}
+{"query": "信用卡逾期如何处理更好?", "source_type": "qa", "expected_keywords": ["信用卡逾期如何处理更好?"]}
+{"query": "设立一人有限公司需具备哪些条件?", "source_type": "qa", "expected_keywords": ["设立一人有限公司需具备哪些条件?"]}
+{"query": "厂房拆迁补偿价格是多少?", "source_type": "qa", "expected_keywords": ["厂房拆迁补偿价格是多少?"]}
+{"query": "村委会有权签订补偿协议吗?", "source_type": "qa", "expected_keywords": ["村委会有权签订补偿协议吗?"]}
+{"query": "18岁还需要支付抚养费吗?", "source_type": "qa", "expected_keywords": ["18岁还需要支付抚养费吗?"]}
+{"query": "存单质押共有人签字有效吗法律依据是哪些?", "source_type": "qa", "expected_keywords": ["存单质押共有人签字有效吗法律依据是哪些?"]}
+{"query": "高压线离住宅的安全距离是多少?", "source_type": "qa", "expected_keywords": ["高压线离住宅的安全距离是多少?"]}
+{"query": "股东大会跟董事会的职权有哪些区别?", "source_type": "qa", "expected_keywords": ["股东大会跟董事会的职权有哪些区别?"]}
+{"query": "试用期解除劳动合同有经济补偿金吗?", "source_type": "qa", "expected_keywords": ["试用期解除劳动合同有经济补偿金吗?"]}
+{"query": "书写形成时间能否鉴定?", "source_type": "qa", "expected_keywords": ["书写形成时间能否鉴定?"]}
+{"query": "退伙退回来的财产价值打不成一致意见,怎么处理?", "source_type": "qa", "expected_keywords": ["退伙退回来的财产价值打不成一致意见,怎么处理?"]}
+{"query": "基于受欺诈作出的民事法律行为可撤销的条件有哪些?", "source_type": "qa", "expected_keywords": ["基于受欺诈作出的民事法律行为可撤销的条件有哪些?"]}
+{"query": "没有房产证的房屋就只能按航拍图认定吗?", "source_type": "qa", "expected_keywords": ["没有房产证的房屋就只能按航拍图认定吗?"]}
+{"query": "故意伤害罪的既遂标准是什么?", "source_type": "qa", "expected_keywords": ["故意伤害罪的既遂标准是什么?"]}
+{"query": "离婚的法定理由是什么?", "source_type": "qa", "expected_keywords": ["离婚的法定理由是什么?"]}

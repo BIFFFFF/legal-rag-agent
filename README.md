@@ -1,15 +1,18 @@
-# 法律领域 RAG 增强智能问答 Agent 
+# 法律领域 RAG 增强智能问答 Agent
 
-面向法律咨询与材料分析场景的 Agentic RAG 系统。系统基于本地法律条文库和法律问答案例库，支持用户用自然语言提问，并通过 Agent 工具链完成法条检索、案例检索、材料读取、报告 skill 读取和 Markdown 报告生成。
+面向法律咨询与法律材料分析场景的 Agentic RAG 系统。系统基于本地法律条文库和法律问答案例库，支持用户通过自然语言提问，并通过 Agent 工具链完成法条检索、案例检索、材料读取、报告 Skill 读取与 Markdown 报告生成。
+
+项目重点放在法律知识库构建、混合检索、Agent 工具调用、可溯源回答和评测体系设计上，用于验证 RAG 在法律问答场景中降低幻觉、提升回答依据性的效果。
 
 ## 核心能力
 
 - 法律条文库与法律问答案例库检索。
-- BM25 + 向量检索混合召回。
-- Cross-Encoder 重排序，可通过环境变量开启。
-- 基于 LangChain `create_agent` 的工具调用 Agent。
-- 支持读取 `materials` 目录中的 `md`、`txt`、`docx`、文字型 `pdf`。
-- 支持读取 `skills` 中的报告/文书生成 skill。
+- 法律条文采用“条款名称、完整内容、内容片段”的多粒度索引方式。
+- BM25 关键词检索与向量检索混合召回。
+- Cross-Encoder 重排序，可通过环境变量按需开启。
+- 基于 LangChain `create_agent` 构建工具调用型 Agent。
+- 支持读取 `materials` 目录中的 `md`、`txt`、`docx`、文字型 `pdf` 材料。
+- 支持读取 `skills` 目录中的报告和文书生成 Skill。
 - 支持将 Markdown 报告保存到 `output` 目录。
 - 支持检索评测 Hit@K 和生成质量 LLM-as-Judge 评测。
 
@@ -30,7 +33,7 @@ data/
   legal_qa_cases.jsonl    法律问答案例数据
 
 materials/        用户材料示例
-skills/           报告和文书生成 skill
+skills/           报告和文书生成 Skill
 judge-agent/      评测脚本、测试集和评测结果
 output/           示例 Markdown 报告输出
 ```
@@ -103,7 +106,7 @@ query: 试用期辞职需要提前几天？
 
 ## 报告生成
 
-系统会从 `skills/skills_detail.md` 读取当前支持的报告或文书类型，再按需读取具体 skill 文件。
+系统会先从 `skills/skills_detail.md` 读取当前支持的报告或文书类型，再按需读取具体 Skill 文件。
 
 示例问题：
 
@@ -127,21 +130,31 @@ query: 试用期辞职需要提前几天？
 .\.venv\Scripts\python.exe judge-agent\judge.py --mode generation
 ```
 
-当前 120 条测试集结果：
+当前检索评测集共 280 条，覆盖法条检索、问答案例检索、标准化问题和用户自然表达问题。当前整体检索结果：
 
 ```text
-Hit@1 = 0.9167
-Hit@3 = 0.9750
-Hit@5 = 0.9833
+Hit@1 = 0.7607
+Hit@3 = 0.8750
+Hit@5 = 0.8893
+```
 
+生成质量评测集共 120 条，使用 LLM-as-Judge 从三个维度评分：
+
+```text
 query_relevance = 97.44
 reference_faithfulness = 96.62
 answer_quality = 96.51
 ```
 
+其中：
+
+- `query_relevance`：回答是否回应用户问题。
+- `reference_faithfulness`：回答是否忠实于检索依据。
+- `answer_quality`：回答是否完整、清晰、可操作。
+
 ## 当前限制
 
 - 仅支持文本型法律材料，不支持图片 OCR 和扫描件 PDF。
-- 本项目仅用于学习与研究，不构成正式法律意见。
+- 本项目用于学习与研究，不构成正式法律意见。
 - 首次运行检索时会加载本地 embedding 模型，CPU 环境下可能较慢。
 - 如果启用 Cross-Encoder 重排序，准确性可能提升，但 CPU 延迟也会明显增加。

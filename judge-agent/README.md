@@ -1,11 +1,11 @@
 # Judge Agent 评测说明
 
-这个文件夹只负责项目评测，不修改主 Agent 代码。
+这个目录用于保存项目评测脚本、测试集和评测结果。
 
 ## 文件说明
 
 - `judge.py`：评测入口脚本。
-- `retrieval_testset.jsonl`：检索评测集，当前 120 条。
+- `retrieval_testset.jsonl`：检索评测集，当前 280 条。
 - `retrieval_scores.json`：检索评测结果。
 - `generation_testset.jsonl`：生成质量评测集，当前 120 条。
 - `judge_scores.jsonl`：生成质量评分明细。
@@ -21,6 +21,8 @@
 - `source_type`：`statute` 表示法条检索，`qa` 表示问答案例检索。
 - `expected_keywords`：期望在检索结果中出现的关键词。
 
+当前检索评测集共 280 条，覆盖法条检索、问答案例检索、标准化问题和用户自然表达问题。
+
 运行：
 
 ```powershell
@@ -30,10 +32,12 @@
 当前结果：
 
 ```text
-Hit@1 = 0.9167
-Hit@3 = 0.9750
-Hit@5 = 0.9833
+Hit@1 = 0.7607
+Hit@3 = 0.8750
+Hit@5 = 0.8893
 ```
+
+Hit@5 的含义：对每个问题，系统返回前 5 条检索结果；如果期望关键词出现在前 5 条结果中，则该样本记为命中。
 
 ## 生成质量评测
 
